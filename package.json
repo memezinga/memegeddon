@@ -1,0 +1,36 @@
+{
+  "name": "memegeddon",
+  "version": "1.0.0",
+  "description": "Herramienta para adquisición y enriquecimiento de plantillas de memes para Memezinga 💪",
+  "main": "memegeddon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memezinga/memegeddon.git"
+  },
+  "keywords": [
+    "meme",
+    "memes"
+  ],
+  "author": {
+    "name": "Ulises Gascón",
+    "url": "https://github.com/ulisesGascon"
+  },
+  "contributors": [
+    {
+      "name": "Fabiola Vieyra",
+      "url": "https://github.com/Fa-v"
+    },
+    {
+      "name": "Theba Gomez",
+      "url": "https://github.com/KoolTheba"
+    }
+  ],
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/memezinga/memegeddon/issues"
+  },
+  "homepage": "https://github.com/memezinga/memegeddon#readme"
+}
