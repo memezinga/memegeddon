@@ -32,5 +32,9 @@
   "bugs": {
     "url": "https://github.com/memezinga/memegeddon/issues"
   },
-  "homepage": "https://github.com/memezinga/memegeddon#readme"
+  "homepage": "https://github.com/memezinga/memegeddon#readme",
+  "dependencies": {
+    "asyncro": "3.0.0",
+    "request": "2.88.0"
+  }
 }
