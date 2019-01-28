@@ -1,5 +1,5 @@
-const {getMemesDb} = require('./lib/meme_data'),
-    {downloadAllMemes} = require('./lib/files.js'),
+const {getMemesDb} = require('./lib/digester'),
+    {downloadAllMemes} = require('./lib/downloader.js'),
     {uploadAllFiles, publicAllFiles} = require('./lib/uploader'),
     {delayPerPage} = require('./config');
 
