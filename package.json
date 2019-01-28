@@ -4,6 +4,8 @@
   "description": "Herramienta para adquisición y enriquecimiento de plantillas de memes para Memezinga 💪",
   "main": "memegeddon.js",
   "scripts": {
+    "prepare:env": "mkdir -p data memes && export GOOGLE_APPLICATION_CREDENTIALS=\"secrets/secrets.json\"",
+    "start": "npm run prepare:env && node memegeddon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
