@@ -5,6 +5,8 @@ module.exports = {
     },
     gcs: {
        projectId: '',
-       bucketName: ''
-    }
+       bucketName: '',
+       memesPath: ''
+    },
+    delayPerPage: 4000 
 };
