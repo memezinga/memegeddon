@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/memezinga/memegeddon#readme",
   "dependencies": {
+    "@google-cloud/storage": "2.3.4",
     "asyncro": "3.0.0",
     "mime": "2.4.0",
     "request": "2.88.0",
