@@ -1,7 +1,8 @@
 module.exports = {
     paths: {
         memes: `${__dirname}/memes`,
-        data: `${__dirname}/data`
+        data: `${__dirname}/data`,
+        backup: `${__dirname}/backup`,
     },
     firebase: {
         apiKey: "",
@@ -16,5 +17,6 @@ module.exports = {
        bucketName: '',
        memesPath: ''
     },
-    delayPerPage: 4000 
+    delayPerPage: 4000,
+    cleanUpAndBackup: true
 };
