@@ -3,9 +3,7 @@
 
 ![travis](https://img.shields.io/travis/memezinga/memegeddon.svg)
 ![issues abiertos](https://img.shields.io/github/issues/memezinga/memegeddon.svg)
-![issues promedio](https://img.shields.io/issuestats/i/github/memezinga/memegeddon.svg)
 ![PR Abiertos](https://img.shields.io/github/issues-pr/memezinga/memegeddon.svg)
-![PR Promedio](https://img.shields.io/issuestats/p/github/memezinga/memegeddon.svg)
 ![último commit](https://img.shields.io/github/last-commit/memezinga/memegeddon.svg)
 ![TOP Lang](https://img.shields.io/github/languages/top/memezinga/memegeddon.svg)
 ![total lang](https://img.shields.io/github/languages/count/memezinga/memegeddon.svg)
